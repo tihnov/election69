@@ -1,0 +1,7 @@
+https://static-ectreport69.ect.go.th/data/data/refs/info_province.json
+https://static-ectreport69.ect.go.th/data/data/refs/info_constituency.json
+https://static-ectreport69.ect.go.th/data/data/refs/info_party_overview.json
+https://static-ectreport69.ect.go.th/data/data/refs/info_mp_candidate.json
+https://static-ectreport69.ect.go.th/data/data/refs/info_party_candidate.json
+https://stats-ectreport69.ect.go.th/data/records/stats_cons.json
+https://stats-ectreport69.ect.go.th/data/records/stats_party.json
